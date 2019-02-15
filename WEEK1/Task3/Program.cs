@@ -1,35 +1,62 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task3
+namespace TASK3
 {
     class Program
     {
+        public void RepeatedArr(List<int> a, int b)   //метод, добавляет число который к нему попал в новый "list" 2 раза
+        {
+            a.Add(b);
+            a.Add(b);
+        }
         static void Main(string[] args)
         {
-            string s = Console.ReadLine();
-            string ss = Console.ReadLine();
-            string[] a = ss.Split(' ');
-            int aa = int.Parse(s);
-            int[] c = new int[aa];
-            /* #1 Сперва я вожу символ потом превращаю его на цифру
-           используя int.Parse(), и вожу элементы массива через пробел 
-           для этого я использовал .Split()*/
-            for (int j = 0; j < aa; j++)
+            int n = 1;
+            string num = Console.ReadLine();      //размер первого массива(аrr1)
+            bool res = false;
+            while (!res)
             {
+                res = int.TryParse(num, out n);
+                if (res) break;
+                Console.WriteLine("Error: you must write number.");
+                num = Console.ReadLine();
+            }
+            res = false;
 
-                int b = int.Parse(a[j]);
-                c[j] = b;
-            }
-            /* #2 Это элементы массива.Каждый раз я преобразовал string на int  */
-            for (int j = 0; j < aa; j++)
+
+            int[] arr1 = new int[n];                      //объявление первого массива
+            List<int> arr2 = new List<int>();             //объявление пустого листа(типа контейнер в с++)
+
+            for (int i = 0; i < n; i++)
             {
-                Console.Write(c[j] + " " + c[j] + " "); /*#3 А тут я уже вывожу элементы массива на экран */
+                   
+                num = Console.ReadLine();                  //инициализация массив
+                int jj;
+                while (!res)                               //для того что бы юсер не ввел буквы вместо чисел
+                {
+                    res = int.TryParse(num, out jj);
+                    if (res)
+                    {
+                        res = false;
+                        break;
+                    }
+                    Console.WriteLine("Error: you must write number.");
+                    num = Console.ReadLine();
+                }
+                jj = int.Parse(num);
+                arr1[i] = jj;
+
+                Program p = new Program();
+                p.RepeatedArr(arr2, arr1[i]);              //используем метод(функцию)
             }
-            Console.ReadKey();
+            for (int i = 0; i < 2 * n; i++)
+            {
+                Console.Write(arr2[i] + " ");               //вывод
+            }
         }
     }
 }

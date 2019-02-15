@@ -10,7 +10,7 @@ namespace Task1
     { 
         public static bool inPrime(int b)     /*метод для того чтобы узнать простое ли число*/
         {
-            if (b == 1)
+            if ((b == 1) or (b==0))
                 return false;
             for (int i = 2; i < b; i++)
             {

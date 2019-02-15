@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace Task1
     { 
         public static bool inPrime(int b)     /*метод для того чтобы узнать простое ли число*/
         {
-            if ((b == 1) or (b==0))
+            if ((b == 1) || (b==0))
                 return false;
             for (int i = 2; i < b; i++)
             {
@@ -26,18 +26,20 @@ namespace Task1
         {
             int n = Convert.ToInt32(Console.ReadLine());    /* поменяем символ на число с помощью convert*/
             int[] a = new int[n];
-            int s = 0;
+            string s = Console.ReadLine();
+            string[] ss = s.Split(' '); /*Используем Split для того чтобы написать элементы в одну строку
+*/            int sum = 0;
             for (int i = 0; i < n; i++)
             {
-                int b = Convert.ToInt32(Console.ReadLine());
+                int b = int.Parse(ss[i]);
                 a[i] = b;
 
             }
             for (int i = 0; i < n; i++)
             {
                 if (inPrime(a[i]))
-                    s++;
-            } Console.WriteLine(s);                  /*выводим сумму простых чисел*/
+                    sum++;
+            } Console.WriteLine(sum);                  /*выводим сумму простых чисел*/
             for (int i = 0; i < n; i++)
             {
                 if (inPrime(a[i]))

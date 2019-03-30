@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\WEEK5\forpractice\bin\Debug\forpractice.exe.config
+C:\Users\User\source\repos\WEEK5\forpractice\bin\Debug\forpractice.exe
+C:\Users\User\source\repos\WEEK5\forpractice\bin\Debug\forpractice.pdb
+C:\Users\User\source\repos\WEEK5\forpractice\obj\Debug\forpractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WEEK5\forpractice\obj\Debug\forpractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WEEK5\forpractice\obj\Debug\forpractice.exe
+C:\Users\User\source\repos\WEEK5\forpractice\obj\Debug\forpractice.pdb

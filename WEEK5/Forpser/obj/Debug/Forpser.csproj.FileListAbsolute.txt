@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\WEEK5\Forpser\bin\Debug\Forpser.exe.config
+C:\Users\User\source\repos\WEEK5\Forpser\bin\Debug\Forpser.exe
+C:\Users\User\source\repos\WEEK5\Forpser\bin\Debug\Forpser.pdb
+C:\Users\User\source\repos\WEEK5\Forpser\obj\Debug\Forpser.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WEEK5\Forpser\obj\Debug\Forpser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WEEK5\Forpser\obj\Debug\Forpser.exe
+C:\Users\User\source\repos\WEEK5\Forpser\obj\Debug\Forpser.pdb

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StudentGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <students>
+    <Student>
+      <name>GEORGIA</name>
+      <age>20</age>
+      <gpa>3.8</gpa>
+    </Student>
+    <Student>
+      <name>Buchelati</name>
+      <age>30</age>
+      <gpa>3.8</gpa>
+    </Student>
+    <Student>
+      <name>Bekzat</name>
+      <age>25</age>
+      <gpa>3.8</gpa>
+    </Student>
+  </students>
+</StudentGroup>

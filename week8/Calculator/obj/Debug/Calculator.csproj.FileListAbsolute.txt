@@ -1,0 +1,10 @@
+D:\Nurdaulet\PP2\week8\week8\Calculator\bin\Debug\Calculator.exe.config
+D:\Nurdaulet\PP2\week8\week8\Calculator\bin\Debug\Calculator.exe
+D:\Nurdaulet\PP2\week8\week8\Calculator\bin\Debug\Calculator.pdb
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.exe
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.pdb
+D:\Nurdaulet\PP2\week8\week8\Calculator\obj\Debug\Calculator.Form1.resources

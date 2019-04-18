@@ -1,0 +1,10 @@
+D:\Nurdaulet\PP2\week8\week8\practice\bin\Debug\practice.exe.config
+D:\Nurdaulet\PP2\week8\week8\practice\bin\Debug\practice.exe
+D:\Nurdaulet\PP2\week8\week8\practice\bin\Debug\practice.pdb
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.csprojAssemblyReference.cache
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.Properties.Resources.resources
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.csproj.GenerateResource.cache
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.exe
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.pdb
+D:\Nurdaulet\PP2\week8\week8\practice\obj\Debug\practice.calc.resources

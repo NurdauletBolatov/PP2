@@ -1,0 +1,3 @@
+D:\Nurdaulet\PP2\Week10\balls\obj\Debug\balls.Properties.Resources.resources
+D:\Nurdaulet\PP2\Week10\balls\obj\Debug\balls.csproj.GenerateResource.cache
+D:\Nurdaulet\PP2\Week10\balls\obj\Debug\balls.csproj.CoreCompileInputs.cache

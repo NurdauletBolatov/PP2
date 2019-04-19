@@ -1,0 +1,9 @@
+D:\Nurdaulet\PP2\Week10\PaintApp\bin\Debug\PaintApp.exe.config
+D:\Nurdaulet\PP2\Week10\PaintApp\bin\Debug\PaintApp.exe
+D:\Nurdaulet\PP2\Week10\PaintApp\bin\Debug\PaintApp.pdb
+D:\Nurdaulet\PP2\Week10\PaintApp\obj\Debug\PaintApp.csprojAssemblyReference.cache
+D:\Nurdaulet\PP2\Week10\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+D:\Nurdaulet\PP2\Week10\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+D:\Nurdaulet\PP2\Week10\PaintApp\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+D:\Nurdaulet\PP2\Week10\PaintApp\obj\Debug\PaintApp.exe
+D:\Nurdaulet\PP2\Week10\PaintApp\obj\Debug\PaintApp.pdb
